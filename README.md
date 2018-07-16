@@ -13,6 +13,16 @@
 
 ### The Visual Object Tracking VOT2014 challenge results
 
+...
+
+### Long-term Tracking in the Wild: A Benchmark
+
+主页[Long-term Tracking in the Wild: A Benchmark](https://oxuva.github.io/long-term-tracking-benchmark/) 代码[long-term-tracking-benchmark](https://github.com/oxuva/long-term-tracking-benchmark)
+
+数据集包含366个序列，总共14小时的视频，比流行的OTB-100多26倍。
+
+![](http://chenguanfuqq.gitee.io/tuquan2/img_2018_5/Screen_Shot_2018-07-15_08.10.45.png)
+
 
 ---
 ## 相关资料
