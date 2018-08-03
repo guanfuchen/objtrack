@@ -31,7 +31,7 @@
 - Fully-Convolutional Siamese Networks for Object Tracking
 - [Visual Tracking with fully Convolutional Networks](http://scott89.github.io/FCNT/) 本文主要结合了top layer（更加通用的目标检测）和lower layer（相似目标之间区分更大），实现了目标的定位跟踪，同时也说明了使用特征选择去除冗余的噪声feature map对于提升精度有较大的帮助。
 - [open-vot](https://github.com/huanglianghua/open-vot) Python编写的开源视觉目标跟踪仓库。
-
+- DCFNet: Discriminant Correlation Filters Network for Visual Tracking，相关代码[DCFNet_pytorch](https://github.com/foolwood/DCFNet_pytorch)
 
 ---
 ### Visual Tracking with fully Convolutional Networks
